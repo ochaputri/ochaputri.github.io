@@ -1,0 +1,146 @@
+.body {
+    max-width: 100%;
+    min-height: 200px;
+}
+
+.batas {
+    height: 57px;
+}
+
+ul li {
+    color: #2f327d;
+}
+
+.logo {
+    margin: 5px;
+    width: 50px;
+    height: 50px;
+}
+
+.nvbr {
+    color: #2f327d;
+}
+
+.hima {
+    color: #2f327d;
+    text-align: center;
+}
+
+.tahun {
+    color: #ffc700;
+    text-align: center;
+}
+
+#jml {
+    color: #2f327d;
+}
+
+#agt {
+    color: #f48c06;
+}
+
+.jmlhagt {
+    float: left;
+}
+
+.card-title {
+    text-align: center;
+    color: #696984;
+    font-size: 35px;
+}
+
+.card1 {
+    background-color: #bfbfbf;
+    opacity: 60%;
+}
+
+.card2 {
+    background-color: #ffc700;
+    opacity: 90%;
+}
+
+.nmupdate {
+    color: #2f327d;
+}
+
+.nmnews {
+    color: #f48c06;
+}
+
+.nmragt {
+    text-align: center;
+    font-size: 30px;
+    color: #ff4d00;
+}
+
+.nmagt {
+    text-align: center;
+    font-size: 33px;
+    color: #696984;
+}
+
+.congratulations1 {
+    height: 440px;
+    width: 440px;
+}
+
+.view {
+    float: right;
+}
+
+.view1 {
+    float: left;
+}
+
+.logohmif {
+    height: 450px;
+    width: 450px;
+}
+
+.nmvisi {
+    text-align: center;
+    color: #2f327d;
+}
+
+.nmmisi {
+    color: #f48c06;
+    text-align: center;
+}
+
+.jdldepart {
+    text-align: center;
+    font-size: 35px;
+    color: #2f327d;
+    list-style: none;
+}
+
+.depart {
+    font-size: 20px;
+    color: #2f327d;
+}
+
+.poh1 {
+    height: 150px;
+    width: 145px;
+}
+
+.contactus {
+    color: #2f327d;
+}
+
+.kotakputih {
+    border-radius: 10px;
+}
+
+.kotakkuning {
+    border-radius: 10px;
+}
+
+.buton {
+    float: right;
+}
+
+.generatics {
+    text-align: center;
+    color: #2f327d;
+}
